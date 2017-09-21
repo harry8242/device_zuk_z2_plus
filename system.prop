@@ -66,6 +66,7 @@ ro.opengles.version=196610
 ro.persist.qcapb=1
 ro.sf.lcd_density=480
 sdm.perf_hint_window=50
+sdm.debug.disable_skip_validate=1
 
 # GPS
 persist.gps.qc_nlp_in_use=1
